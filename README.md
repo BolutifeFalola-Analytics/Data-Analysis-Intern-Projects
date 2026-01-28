@@ -4,7 +4,11 @@ This repository contains selected entry-level data analysis projects created as 
 - Microsoft Excel (Pivot Tables, Charts, Data Cleaning)
 - SQL (Filtering, Aggregations, Joins)
 - Python (Introductory data analysis – DataCamp)
-## Project Overview
+  
+### Project Overview
+- Performed basic data analysis using pandas
+- Created and analyzed structured datasets
+- Focused on data cleaning and summary insights
 
 ### Excel Projects
 - Built Excel dashboards using pivot tables and charts
